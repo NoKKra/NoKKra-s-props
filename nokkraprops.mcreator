@@ -58,6 +58,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Achivmentbiba",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -73,10 +81,12 @@
       "itemGroup.tabratprops": "Материаллы НоККры",
       "item.kepkahelmet.name": "Кепарь",
       "item.kepkabody.name": "Kepka Body",
+      "advancements.achivmentbiba.title": "Achivmentbiba",
       "item.guardhelmet.name": "Гвардейская шапка",
       "item.guardbody.name": "Guard Body",
       "item.blackcylinderbody.name": "Black Cylinder Body",
       "item.logo.name": "Logo",
+      "advancements.achivmentbiba.descr": "Ебать паша чмо",
       "item.kepkaboots.name": "Kepka Boots"
     },
     "en_us": {
@@ -89,10 +99,12 @@
       "itemGroup.tabratprops": "NoKKra\u0027s Props",
       "item.kepkahelmet.name": "Kepar",
       "item.kepkabody.name": "Kepka Body",
+      "advancements.achivmentbiba.title": "Achivmentbiba",
       "item.guardhelmet.name": "Guard Helm",
       "item.guardbody.name": "Guard Body",
       "item.blackcylinderbody.name": "Black Cylinder Body",
       "item.logo.name": "Logo",
+      "advancements.achivmentbiba.descr": "PaShTeT is stupid biba",
       "item.kepkaboots.name": "Kepka Boots"
     }
   },
