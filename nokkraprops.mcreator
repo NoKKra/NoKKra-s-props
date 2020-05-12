@@ -1,0 +1,119 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Guard",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "RatProps",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Kepka",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "BlackCylinder",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Logo",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "item.kepkalegs.name": "Kepka Leggings",
+      "item.guardboots.name": "Guard Boots",
+      "item.guardlegs.name": "Guard Leggings",
+      "item.blackcylinderlegs.name": "Black Cylinder Leggings",
+      "item.blackcylinderboots.name": "Black Cylinder Boots",
+      "item.blackcylinderhelmet.name": "Чёрный высокий цилиндр",
+      "itemGroup.tabratprops": "Материаллы НоККры",
+      "item.kepkahelmet.name": "Кепарь",
+      "item.kepkabody.name": "Kepka Body",
+      "item.guardhelmet.name": "Гвардейская шапка",
+      "item.guardbody.name": "Guard Body",
+      "item.blackcylinderbody.name": "Black Cylinder Body",
+      "item.logo.name": "Logo",
+      "item.kepkaboots.name": "Kepka Boots"
+    },
+    "en_us": {
+      "item.kepkalegs.name": "Kepka Leggings",
+      "item.guardboots.name": "Guard Boots",
+      "item.guardlegs.name": "Guard Leggings",
+      "item.blackcylinderlegs.name": "Black Cylinder Leggings",
+      "item.blackcylinderboots.name": "Black Cylinder Boots",
+      "item.blackcylinderhelmet.name": "Black Cylinder",
+      "itemGroup.tabratprops": "NoKKra\u0027s Props",
+      "item.kepkahelmet.name": "Kepar",
+      "item.kepkabody.name": "Kepka Body",
+      "item.guardhelmet.name": "Guard Helm",
+      "item.guardbody.name": "Guard Body",
+      "item.blackcylinderbody.name": "Black Cylinder Body",
+      "item.logo.name": "Logo",
+      "item.kepkaboots.name": "Kepka Boots"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "nokkraprops",
+    "modName": "NoKKra\u0027s Props",
+    "version": "1.0.0",
+    "description": "Props and clothes for minecraft serial Rat",
+    "author": "Fumbles",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "ora22",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.nokkraprops",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

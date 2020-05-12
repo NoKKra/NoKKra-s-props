@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "nokkraprops",
+    "name": "NoKKra's Props",
+    "description": "Props and clothes for minecraft serial Rat",
+    "version": "1.0.0",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/nokkraprops/textures/ora22.png",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Fumbles"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
